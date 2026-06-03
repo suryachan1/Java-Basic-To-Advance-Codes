@@ -5,7 +5,6 @@ This folder contains all my Java learning repositories.
 ---
 ## 🔹 Basics
 - [HelloWorld](https://github.com/suryachan1/suryachan1-HelloWorld)
-- [Start](https://github.com/suryachan1/suryachan1-Start)
 - [Add](https://github.com/suryachan1/suryachan1-Add)
 - [Subtract](https://github.com/suryachan1/suryachan1-Subtract)
 - [Average](https://github.com/suryachan1/suryachan1-Average)
